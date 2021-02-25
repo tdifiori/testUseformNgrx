@@ -1,0 +1,15 @@
+{
+  "formConfigMock":[
+    {
+      "id": 10,
+      "title": "Apple .Inc - Form acquisizione contatti ",
+      "description": "Eventuale descrizione della form"
+    },
+
+    {
+      "id": 11,
+      "title": "Microsoft -  Form customer satisfaction",
+      "description": "Eventuale descrizione della form"
+    }
+  ]
+}
